@@ -620,7 +620,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 
-var BASRURL = "http://localhost:6291/api/GroceriesApi";
+var BASRURL = "http://hiphusk-001-site1.dtempurl.com/api/groceriesApi";
 var GListService = /** @class */ (function () {
     function GListService(http, snackBar) {
         this.http = http;
