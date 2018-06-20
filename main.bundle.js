@@ -595,7 +595,8 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 //export const BASRURL = "http://hiphusk-001-site1.dtempurl.com/api/groceriesApi";
-var BASRURL = "http://localhost:6291/api/GroceriesApi";
+//var BASRURL = "http://localhost:6291/api/GroceriesApi";
+var BASRURL = "https://linux-docker-4.herokuapp.com/api/GroceriesApi";
 var GListService = /** @class */ (function () {
     function GListService(http, snackBar) {
         this.http = http;
